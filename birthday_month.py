@@ -1,0 +1,5 @@
+name = input('What is your name? ')
+birthMonth = input('What month were you born in? ')
+print('Hello, ' + name)
+print('There are ' + str(len(name)) + ' letters in your name')
+print('Your birth month is ' + birthMonth)
